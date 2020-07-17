@@ -1,0 +1,20 @@
+The hypothesis are as under:
+1. Relatively more men quit than women.
+
+2. Average age of employee is 42 years.
+
+3. Most of the eployees love to travel.
+
+4. Average salary of employee is not equal to 90000.
+
+5. Each employee is happy with his/her current manager.
+
+6. Attrution rate is less than 10%.
+
+7. Emplyees are satisfied with their salary hike.
+
+8. About 29% employ work for R&D.
+
+9. Married employees take more risk of leaving than single ones.
+
+10.Not all employees have experience of 5 years. 
