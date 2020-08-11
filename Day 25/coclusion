@@ -1,0 +1,39 @@
+RESULT:
+    The confusion matrix and accuracy score for the columns are shown:-
+        1.Survived
+            0.7078651685393258
+            [[80 25]
+             [27 46]]
+        2.Pclass
+            0.7078651685393258
+            [[34  9  4]
+             [ 4 16 15]
+             [ 5 15 76]]
+        3.Sex
+            0.7134831460674157
+            [[38 25]
+             [26 89]]
+        4.SibSp
+            0.601123595505618
+            [[94  5  1 23  1  0  0]
+             [19  5  0 15  1  0  0]
+             [ 3  1  0  0  0  0  0]
+             [ 0  0  0  4  2  0  0]
+             [ 0  0  0  0  1  0  0]
+             [ 0  0  0  0  0  1  0]
+             [ 0  0  0  0  0  0  2]]
+        5.Parch
+            0.6179775280898876
+            [[100   8   0  18   7]
+             [  9   3   0   8   3]
+             [  4   3   7   4   2]
+             [  0   0   0   0   1]
+             [  0   0   0   1   0]]
+        6.Embarked
+            0.651685393258427
+            [[12  5 13]
+             [ 0  8  8]
+             [16 20 96]]
+            ​
+THIS RESULT IS FOR DATASET WHEN IS IS SPLIT FOR 80-20 RATIO . 
+WHEN THE DATASET IS SPLIT FOR 70-30 OR 90-10 THE ACCURACY SCORE DECREASES HENCE IT IS THE BEST FIT.
